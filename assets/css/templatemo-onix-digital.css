@@ -870,7 +870,7 @@ Banner Style
 
 .main-banner:after {
   content: '';
-  background-image: url(../images/baner-dec-left.png);
+  background-image: url(../images/subscribe-dec.png);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
